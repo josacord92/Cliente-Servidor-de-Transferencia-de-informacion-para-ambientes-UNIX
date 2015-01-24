@@ -1,0 +1,13 @@
+./bftp jose:carlos@10.0.2.15/desktop/proyectin/home/
+
+
+comandos
+open *
+close *
+quit *
+cd *
+get *
+lcd *
+ls *
+put *
+pwd *
